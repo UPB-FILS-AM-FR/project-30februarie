@@ -104,13 +104,3 @@ Codul rulat pe Arduino urmează o arhitectură de tip **Loop Secvențial în Tim
 
 ### Week 20 - 26 May
 
-
-## Reference links
-
-<!-- Fill in with appropriate links and link titles -->
-
-[Tutorial 1](https://www.youtube.com/watch?v=wdgULBpRoXk&t=1s&ab_channel=BenEater)
-
-[Article 1](https://www.explainthatstuff.com/induction-motors.html)
-
-[Link title](https://projecthub.arduino.cc/)
