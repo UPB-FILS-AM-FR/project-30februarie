@@ -2,7 +2,7 @@
 
 | | |
 |-|-|
-|`Ionita Alexandra Maria` | Your full name
+|`Author` | Ionita Alexandra Maria
 
 ## Description
 Acest proiect reprezintă un **sistem electronic de monitorizare și vizualizare dinamică a intensității acustice**, realizat în timp real cu ajutorul tehnologiei microcontrolerelor. Scopul său principal este de a capta undele sonore din mediul ambiental și de a le converti instantaneu într-o reprezentare grafică luminoasă, funcționând ca un analizor de ritm (VU-meter) de înaltă precizie.
@@ -89,12 +89,10 @@ Codul rulat pe Arduino urmează o arhitectură de tip **Loop Secvențial în Tim
 
 ### Libraries
 
-<!-- This is just an example, fill in the table with your actual components -->
-
 | Library | Description | Usage |
-|---------|-------------|-------|
-| [lib-name1](link-to-lib) | official description of the lib | Used for accesing the peripherals of the microcontroller  |
-| [lib-name2](link-to-lib) | official description of the lib | Used for accesing the peripherals of the microcontroller  |
+| :--- | :--- | :--- |
+| [Arduino](https://www.arduino.cc/reference/en/) | Core-ul sistemului și funcții de bază | Citire analogică și gestionarea timpului |
+| [Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel) | Controlul LED-urilor adresabile WS2812B | Gestionarea culorilor și afișarea spectrului |
 
 ## Log
 
