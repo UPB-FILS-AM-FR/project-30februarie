@@ -2,7 +2,7 @@
 
 | | |
 |-|-|
-|`Author` | Your full name
+|`Ionita Alexandra Maria` | Your full name
 
 ## Description
 
@@ -12,8 +12,8 @@
 
 ### Block diagram
 
-<!-- Make sure the path to the picture is correct -->
-![Block Diagram](schematics/block_diagram.png)
+<img width="1787" height="1164" alt="image" src="https://github.com/user-attachments/assets/2baec3e4-e86b-4c3b-a0c8-eb8af98620ef" />
+
 
 ### Schematic
 
